@@ -1,0 +1,7 @@
+E:\b站课程\面向工程人员的revit二次开发课堂\08Revit二开之UIRibbon\UIDemo\UIButtonDemo\bin\Release\UIButtonDemo.dll
+E:\b站课程\面向工程人员的revit二次开发课堂\08Revit二开之UIRibbon\UIDemo\UIButtonDemo\bin\Release\UIButtonDemo.pdb
+E:\b站课程\面向工程人员的revit二次开发课堂\08Revit二开之UIRibbon\UIDemo\UIButtonDemo\obj\Release\UIButtonDemo.csprojAssemblyReference.cache
+E:\b站课程\面向工程人员的revit二次开发课堂\08Revit二开之UIRibbon\UIDemo\UIButtonDemo\obj\Release\UIButtonDemo.g.resources
+E:\b站课程\面向工程人员的revit二次开发课堂\08Revit二开之UIRibbon\UIDemo\UIButtonDemo\obj\Release\UIButtonDemo.csproj.CoreCompileInputs.cache
+E:\b站课程\面向工程人员的revit二次开发课堂\08Revit二开之UIRibbon\UIDemo\UIButtonDemo\obj\Release\UIButtonDemo.dll
+E:\b站课程\面向工程人员的revit二次开发课堂\08Revit二开之UIRibbon\UIDemo\UIButtonDemo\obj\Release\UIButtonDemo.pdb

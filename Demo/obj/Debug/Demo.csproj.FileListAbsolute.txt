@@ -1,0 +1,5 @@
+E:\b站课程\面向工程人员的revit二次开发课堂\06Revit二开之族实例创建、取值、赋值\LearnFamilyInstance\Demo\bin\Debug\Demo.dll
+E:\b站课程\面向工程人员的revit二次开发课堂\06Revit二开之族实例创建、取值、赋值\LearnFamilyInstance\Demo\bin\Debug\Demo.pdb
+E:\b站课程\面向工程人员的revit二次开发课堂\06Revit二开之族实例创建、取值、赋值\LearnFamilyInstance\Demo\obj\Debug\Demo.csproj.CoreCompileInputs.cache
+E:\b站课程\面向工程人员的revit二次开发课堂\06Revit二开之族实例创建、取值、赋值\LearnFamilyInstance\Demo\obj\Debug\Demo.dll
+E:\b站课程\面向工程人员的revit二次开发课堂\06Revit二开之族实例创建、取值、赋值\LearnFamilyInstance\Demo\obj\Debug\Demo.pdb

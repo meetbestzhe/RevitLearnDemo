@@ -1,0 +1,26 @@
+E:\b站课程\面向工程人员的revit二次开发课堂\09Revit二开之WPF的使用\WpfDemo\ExternalEventNormal\obj\Debug\MainWindow.g.cs
+E:\b站课程\面向工程人员的revit二次开发课堂\09Revit二开之WPF的使用\WpfDemo\ExternalEventNormal\obj\Debug\ExternalEventNormal_MarkupCompile.cache
+E:\b站课程\面向工程人员的revit二次开发课堂\09Revit二开之WPF的使用\WpfDemo\ExternalEventNormal\obj\Debug\ExternalEventNormal_MarkupCompile.lref
+E:\b站课程\面向工程人员的revit二次开发课堂\09Revit二开之WPF的使用\WpfDemo\ExternalEventNormal\bin\Debug\ExternalEventNormal.dll
+E:\b站课程\面向工程人员的revit二次开发课堂\09Revit二开之WPF的使用\WpfDemo\ExternalEventNormal\bin\Debug\ExternalEventNormal.pdb
+E:\b站课程\面向工程人员的revit二次开发课堂\09Revit二开之WPF的使用\WpfDemo\ExternalEventNormal\obj\Debug\MainWindow.baml
+E:\b站课程\面向工程人员的revit二次开发课堂\09Revit二开之WPF的使用\WpfDemo\ExternalEventNormal\obj\Debug\ExternalEventNormal.g.resources
+E:\b站课程\面向工程人员的revit二次开发课堂\09Revit二开之WPF的使用\WpfDemo\ExternalEventNormal\obj\Debug\ExternalEventNormal.Properties.Resources.resources
+E:\b站课程\面向工程人员的revit二次开发课堂\09Revit二开之WPF的使用\WpfDemo\ExternalEventNormal\obj\Debug\ExternalEventNormal.csproj.GenerateResource.cache
+E:\b站课程\面向工程人员的revit二次开发课堂\09Revit二开之WPF的使用\WpfDemo\ExternalEventNormal\obj\Debug\ExternalEventNormal.csproj.CoreCompileInputs.cache
+E:\b站课程\面向工程人员的revit二次开发课堂\09Revit二开之WPF的使用\WpfDemo\ExternalEventNormal\obj\Debug\ExternalEventNormal.dll
+E:\b站课程\面向工程人员的revit二次开发课堂\09Revit二开之WPF的使用\WpfDemo\ExternalEventNormal\obj\Debug\ExternalEventNormal.pdb
+E:\b站课程\面向工程人员的revit二次开发课堂\09Revit二开之WPF的使用\WpfDemo\ExternalEventNormal\obj\Debug\ExternalEventNormal.csprojAssemblyReference.cache
+E:\b站课程\面向工程人员的revit二次开发课堂\09Revit二开之WPF的使用 - 副本\WpfDemo\ExternalEventNormal\bin\Debug\ExternalEventNormal.dll
+E:\b站课程\面向工程人员的revit二次开发课堂\09Revit二开之WPF的使用 - 副本\WpfDemo\ExternalEventNormal\bin\Debug\ExternalEventNormal.pdb
+E:\b站课程\面向工程人员的revit二次开发课堂\09Revit二开之WPF的使用 - 副本\WpfDemo\ExternalEventNormal\obj\Debug\ExternalEventNormal.csprojAssemblyReference.cache
+E:\b站课程\面向工程人员的revit二次开发课堂\09Revit二开之WPF的使用 - 副本\WpfDemo\ExternalEventNormal\obj\Debug\MainWindow.g.cs
+E:\b站课程\面向工程人员的revit二次开发课堂\09Revit二开之WPF的使用 - 副本\WpfDemo\ExternalEventNormal\obj\Debug\ExternalEventNormal_MarkupCompile.cache
+E:\b站课程\面向工程人员的revit二次开发课堂\09Revit二开之WPF的使用 - 副本\WpfDemo\ExternalEventNormal\obj\Debug\ExternalEventNormal_MarkupCompile.lref
+E:\b站课程\面向工程人员的revit二次开发课堂\09Revit二开之WPF的使用 - 副本\WpfDemo\ExternalEventNormal\obj\Debug\MainWindow.baml
+E:\b站课程\面向工程人员的revit二次开发课堂\09Revit二开之WPF的使用 - 副本\WpfDemo\ExternalEventNormal\obj\Debug\ExternalEventNormal.g.resources
+E:\b站课程\面向工程人员的revit二次开发课堂\09Revit二开之WPF的使用 - 副本\WpfDemo\ExternalEventNormal\obj\Debug\ExternalEventNormal.Properties.Resources.resources
+E:\b站课程\面向工程人员的revit二次开发课堂\09Revit二开之WPF的使用 - 副本\WpfDemo\ExternalEventNormal\obj\Debug\ExternalEventNormal.csproj.GenerateResource.cache
+E:\b站课程\面向工程人员的revit二次开发课堂\09Revit二开之WPF的使用 - 副本\WpfDemo\ExternalEventNormal\obj\Debug\ExternalEventNormal.csproj.CoreCompileInputs.cache
+E:\b站课程\面向工程人员的revit二次开发课堂\09Revit二开之WPF的使用 - 副本\WpfDemo\ExternalEventNormal\obj\Debug\ExternalEventNormal.dll
+E:\b站课程\面向工程人员的revit二次开发课堂\09Revit二开之WPF的使用 - 副本\WpfDemo\ExternalEventNormal\obj\Debug\ExternalEventNormal.pdb

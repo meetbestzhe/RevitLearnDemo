@@ -1,0 +1,18 @@
+﻿<Window x:Class="ExternalEventDemo.MainWindow"
+        xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+        xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+        xmlns:d="http://schemas.microsoft.com/expression/blend/2008"
+        xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
+        xmlns:local="clr-namespace:ExternalEventDemo"
+        mc:Ignorable="d"
+        Title="MainWindow" Height="450" Width="800">
+    <Grid>
+        <Button x:Name="button" Content="创建墙1" HorizontalAlignment="Left" Margin="368,185,0,0" VerticalAlignment="Top" Width="75" Click="Button_Click"/>
+        <Label x:Name="label" Content="创建墙1" HorizontalAlignment="Left" Margin="112,185,0,0" VerticalAlignment="Top"/>
+        <Label x:Name="label_Copy" Content="创建墙2" HorizontalAlignment="Left" Margin="112,252,0,0" VerticalAlignment="Top"/>
+        <TextBox x:Name="textBox" HorizontalAlignment="Left" Height="23" Margin="232,191,0,0" TextWrapping="Wrap" Text="" VerticalAlignment="Top" Width="120"/>
+        <TextBox x:Name="textBoxTwo" HorizontalAlignment="Left" Height="23" Margin="232,256,0,0" TextWrapping="Wrap" Text="" VerticalAlignment="Top" Width="120"/>
+        <Button x:Name="buttonTwo" Content="创建墙2" HorizontalAlignment="Left" Margin="375,256,0,0" VerticalAlignment="Top" Width="75" Click="ButtonTwo_Click" />
+
+    </Grid>
+</Window>

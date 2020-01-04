@@ -1,0 +1,6 @@
+E:\b站课程\面向工程人员的revit二次开发课堂\06Revit二开之过滤器\FilterDemo\LearnFiter\bin\Debug\LearnFiter.dll
+E:\b站课程\面向工程人员的revit二次开发课堂\06Revit二开之过滤器\FilterDemo\LearnFiter\bin\Debug\LearnFiter.pdb
+E:\b站课程\面向工程人员的revit二次开发课堂\06Revit二开之过滤器\FilterDemo\LearnFiter\obj\Debug\LearnFiter.csproj.CoreCompileInputs.cache
+E:\b站课程\面向工程人员的revit二次开发课堂\06Revit二开之过滤器\FilterDemo\LearnFiter\obj\Debug\LearnFiter.dll
+E:\b站课程\面向工程人员的revit二次开发课堂\06Revit二开之过滤器\FilterDemo\LearnFiter\obj\Debug\LearnFiter.pdb
+E:\b站课程\面向工程人员的revit二次开发课堂\06Revit二开之过滤器\FilterDemo\LearnFiter\obj\Debug\LearnFiter.csprojAssemblyReference.cache

@@ -1,0 +1,26 @@
+E:\b站课程\面向工程人员的revit二次开发课堂\09Revit二开之WPF的使用\WpfDemo\ShowModelInWpf\obj\Debug\MainWindow.g.cs
+E:\b站课程\面向工程人员的revit二次开发课堂\09Revit二开之WPF的使用\WpfDemo\ShowModelInWpf\obj\Debug\ShowModelInWpf_MarkupCompile.cache
+E:\b站课程\面向工程人员的revit二次开发课堂\09Revit二开之WPF的使用\WpfDemo\ShowModelInWpf\obj\Debug\ShowModelInWpf_MarkupCompile.lref
+E:\b站课程\面向工程人员的revit二次开发课堂\09Revit二开之WPF的使用\WpfDemo\ShowModelInWpf\bin\Debug\ShowModelInWpf.dll.config
+E:\b站课程\面向工程人员的revit二次开发课堂\09Revit二开之WPF的使用\WpfDemo\ShowModelInWpf\bin\Debug\ShowModelInWpf.dll
+E:\b站课程\面向工程人员的revit二次开发课堂\09Revit二开之WPF的使用\WpfDemo\ShowModelInWpf\bin\Debug\ShowModelInWpf.pdb
+E:\b站课程\面向工程人员的revit二次开发课堂\09Revit二开之WPF的使用\WpfDemo\ShowModelInWpf\obj\Debug\MainWindow.baml
+E:\b站课程\面向工程人员的revit二次开发课堂\09Revit二开之WPF的使用\WpfDemo\ShowModelInWpf\obj\Debug\ShowModelInWpf.g.resources
+E:\b站课程\面向工程人员的revit二次开发课堂\09Revit二开之WPF的使用\WpfDemo\ShowModelInWpf\obj\Debug\ShowModelInWpf.Properties.Resources.resources
+E:\b站课程\面向工程人员的revit二次开发课堂\09Revit二开之WPF的使用\WpfDemo\ShowModelInWpf\obj\Debug\ShowModelInWpf.csproj.GenerateResource.cache
+E:\b站课程\面向工程人员的revit二次开发课堂\09Revit二开之WPF的使用\WpfDemo\ShowModelInWpf\obj\Debug\ShowModelInWpf.csproj.CoreCompileInputs.cache
+E:\b站课程\面向工程人员的revit二次开发课堂\09Revit二开之WPF的使用\WpfDemo\ShowModelInWpf\obj\Debug\ShowModelInWpf.dll
+E:\b站课程\面向工程人员的revit二次开发课堂\09Revit二开之WPF的使用\WpfDemo\ShowModelInWpf\obj\Debug\ShowModelInWpf.pdb
+E:\b站课程\面向工程人员的revit二次开发课堂\09Revit二开之WPF的使用 - 副本\WpfDemo\ShowModelInWpf\bin\Debug\ShowModelInWpf.dll.config
+E:\b站课程\面向工程人员的revit二次开发课堂\09Revit二开之WPF的使用 - 副本\WpfDemo\ShowModelInWpf\bin\Debug\ShowModelInWpf.dll
+E:\b站课程\面向工程人员的revit二次开发课堂\09Revit二开之WPF的使用 - 副本\WpfDemo\ShowModelInWpf\bin\Debug\ShowModelInWpf.pdb
+E:\b站课程\面向工程人员的revit二次开发课堂\09Revit二开之WPF的使用 - 副本\WpfDemo\ShowModelInWpf\obj\Debug\MainWindow.g.cs
+E:\b站课程\面向工程人员的revit二次开发课堂\09Revit二开之WPF的使用 - 副本\WpfDemo\ShowModelInWpf\obj\Debug\ShowModelInWpf_MarkupCompile.cache
+E:\b站课程\面向工程人员的revit二次开发课堂\09Revit二开之WPF的使用 - 副本\WpfDemo\ShowModelInWpf\obj\Debug\ShowModelInWpf_MarkupCompile.lref
+E:\b站课程\面向工程人员的revit二次开发课堂\09Revit二开之WPF的使用 - 副本\WpfDemo\ShowModelInWpf\obj\Debug\MainWindow.baml
+E:\b站课程\面向工程人员的revit二次开发课堂\09Revit二开之WPF的使用 - 副本\WpfDemo\ShowModelInWpf\obj\Debug\ShowModelInWpf.g.resources
+E:\b站课程\面向工程人员的revit二次开发课堂\09Revit二开之WPF的使用 - 副本\WpfDemo\ShowModelInWpf\obj\Debug\ShowModelInWpf.Properties.Resources.resources
+E:\b站课程\面向工程人员的revit二次开发课堂\09Revit二开之WPF的使用 - 副本\WpfDemo\ShowModelInWpf\obj\Debug\ShowModelInWpf.csproj.GenerateResource.cache
+E:\b站课程\面向工程人员的revit二次开发课堂\09Revit二开之WPF的使用 - 副本\WpfDemo\ShowModelInWpf\obj\Debug\ShowModelInWpf.csproj.CoreCompileInputs.cache
+E:\b站课程\面向工程人员的revit二次开发课堂\09Revit二开之WPF的使用 - 副本\WpfDemo\ShowModelInWpf\obj\Debug\ShowModelInWpf.dll
+E:\b站课程\面向工程人员的revit二次开发课堂\09Revit二开之WPF的使用 - 副本\WpfDemo\ShowModelInWpf\obj\Debug\ShowModelInWpf.pdb

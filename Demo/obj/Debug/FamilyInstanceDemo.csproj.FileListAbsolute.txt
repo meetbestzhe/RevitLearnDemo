@@ -1,0 +1,16 @@
+E:\b站课程\面向工程人员的revit二次开发课堂\06Revit二开之族实例创建、取值、赋值\LearnFamilyInstance\Demo\bin\Debug\FamilyInstanceDemo.dll
+E:\b站课程\面向工程人员的revit二次开发课堂\06Revit二开之族实例创建、取值、赋值\LearnFamilyInstance\Demo\bin\Debug\FamilyInstanceDemo.pdb
+E:\b站课程\面向工程人员的revit二次开发课堂\06Revit二开之族实例创建、取值、赋值\LearnFamilyInstance\Demo\obj\Debug\FamilyInstanceDemo.csproj.CoreCompileInputs.cache
+E:\b站课程\面向工程人员的revit二次开发课堂\06Revit二开之族实例创建、取值、赋值\LearnFamilyInstance\Demo\obj\Debug\FamilyInstanceDemo.dll
+E:\b站课程\面向工程人员的revit二次开发课堂\06Revit二开之族实例创建、取值、赋值\LearnFamilyInstance\Demo\obj\Debug\FamilyInstanceDemo.pdb
+E:\b站课程\面向工程人员的revit二次开发课堂\07Revit二开之族实例创建、取值、赋值\LearnFamilyInstance\Demo\bin\Debug\FamilyInstanceDemo.dll
+E:\b站课程\面向工程人员的revit二次开发课堂\07Revit二开之族实例创建、取值、赋值\LearnFamilyInstance\Demo\bin\Debug\FamilyInstanceDemo.pdb
+E:\b站课程\面向工程人员的revit二次开发课堂\07Revit二开之族实例创建、取值、赋值\LearnFamilyInstance\Demo\obj\Debug\FamilyInstanceDemo.csproj.CoreCompileInputs.cache
+E:\b站课程\面向工程人员的revit二次开发课堂\07Revit二开之族实例创建、取值、赋值\LearnFamilyInstance\Demo\obj\Debug\FamilyInstanceDemo.dll
+E:\b站课程\面向工程人员的revit二次开发课堂\07Revit二开之族实例创建、取值、赋值\LearnFamilyInstance\Demo\obj\Debug\FamilyInstanceDemo.pdb
+E:\b站课程\面向工程人员的revit二次开发课堂\07Revit二开之族实例创建、取值、赋值 - 副本\LearnFamilyInstance\Demo\bin\Debug\FamilyInstanceDemo.dll
+E:\b站课程\面向工程人员的revit二次开发课堂\07Revit二开之族实例创建、取值、赋值 - 副本\LearnFamilyInstance\Demo\bin\Debug\FamilyInstanceDemo.pdb
+E:\b站课程\面向工程人员的revit二次开发课堂\07Revit二开之族实例创建、取值、赋值 - 副本\LearnFamilyInstance\Demo\obj\Debug\FamilyInstanceDemo.csprojAssemblyReference.cache
+E:\b站课程\面向工程人员的revit二次开发课堂\07Revit二开之族实例创建、取值、赋值 - 副本\LearnFamilyInstance\Demo\obj\Debug\FamilyInstanceDemo.csproj.CoreCompileInputs.cache
+E:\b站课程\面向工程人员的revit二次开发课堂\07Revit二开之族实例创建、取值、赋值 - 副本\LearnFamilyInstance\Demo\obj\Debug\FamilyInstanceDemo.dll
+E:\b站课程\面向工程人员的revit二次开发课堂\07Revit二开之族实例创建、取值、赋值 - 副本\LearnFamilyInstance\Demo\obj\Debug\FamilyInstanceDemo.pdb

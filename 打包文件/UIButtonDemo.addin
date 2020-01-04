@@ -1,0 +1,11 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<RevitAddIns>
+  <AddIn Type="Application">
+    <Name>UIDemo</Name>
+    <Assembly>UIRibbonPlugin/UIButtonDemo.dll</Assembly>
+    <ClientId>9f7347e8-f1f0-43b4-8012-94d6ab46f30d</ClientId>
+    <FullClassName>UIButtonDemo.UIDemo</FullClassName>
+    <VendorId>ADSK</VendorId>
+    <VendorDescription>Autodesk, www.autodesk.com</VendorDescription>
+  </AddIn>
+</RevitAddIns>
